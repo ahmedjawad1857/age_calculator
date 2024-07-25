@@ -98,6 +98,7 @@
   background-size: 30px;
   width: auto;
   height: auto;
+  cursor: pointer;
 }
 
 .result-box {
@@ -112,6 +113,11 @@
   text-wrap: wrap;
   overflow-y: auto; /* Enable vertical scrolling */
   transition: all 0.5s ease-in-out;
+}
+
+.result-box:hover {
+  box-shadow: 15px 10px 5px #333;
+  transform: translateY(-10px);
 }
 
 /* Custom Scrollbar */

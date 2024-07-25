@@ -19,7 +19,7 @@ The Age Calculator is a web application that allows users to calculate their age
 1. **Clone the repository**:
 
 ```bash
-    git clone https://github.com/ahmedjawad1857/age-calculator.git
+    git clone https://github.com/ahmedjawad1857/age_calculator.git
     cd age-calculator
 ```
 
